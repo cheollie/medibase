@@ -30,10 +30,10 @@ If you are testing the site, here are some DIN numbers you can use. Alternativel
 00678740
 ```
 
-## for [LyonHacks II!](https://lyonhacks-ii.devpost.com/):
-made by [Aaron Z](https://github.com/AAZZAZRON), [Daniel Y](https://github.com/Trentiumz), [Shane C,](https://github.com/mars-flat) and [Chelsea W](https://github.com/cheollie).
+## originally for [lyonHacks ii](https://lyonhacks-ii.devpost.com/), adapted for tsf
+early code made by [Aaron Z](https://github.com/AAZZAZRON), [Daniel Y](https://github.com/Trentiumz), [Shane C,](https://github.com/mars-flat) and [Chelsea W](https://github.com/cheollie)
+adaptions made by [Chelsea W](https://github.com/cheollie)
 
-[edit: got first! :hyperpoggers:]
 
 ## links
 - devpost: https://devpost.com/software/medibase
