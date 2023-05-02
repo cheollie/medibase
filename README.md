@@ -32,6 +32,7 @@ If you are testing the site, here are some DIN numbers you can use. Alternativel
 
 ## originally for [lyonHacks ii](https://lyonhacks-ii.devpost.com/), adapted for tsf
 early code made by [Aaron Z](https://github.com/AAZZAZRON), [Daniel Y](https://github.com/Trentiumz), [Shane C,](https://github.com/mars-flat) and [Chelsea W](https://github.com/cheollie)
+
 adaptions made by [Chelsea W](https://github.com/cheollie)
 
 
