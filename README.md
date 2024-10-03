@@ -21,19 +21,19 @@ With this in mind, MediBase was created with the intention to tackle these issue
 ## features:
 
 - search medication by DIN number and QR code
- - returns info about the medication, has option to add the medication to personal list allows you text to speech
+  - returns info about the medication, has option to add the medication to personal list allows you text to speech
 - save all your medication in one place
- - navigate between medication where you can see details, have it spoken out loud, and remind you (currently daily) to take the medication - can add and remove
- - provides information on consumption quantity, frequency, warnings, amount left, and any specific instructions from your doctor
+  - navigate between medication where you can see details, have it spoken out loud, and remind you (currently daily) to take the medication - can add and remove
+  - provides information on consumption quantity, frequency, warnings, amount left, and any specific instructions from your doctor
 - reminds you to take medication
- - uses desktop notifications
+  - uses desktop notifications
 - entire website can be translated (TTS too!)
- - profile page lets you switch languages
- - text to speech can speak in other languages as well
+  - profile page lets you switch languages
+  - text to speech can speak in other languages as well
 - accessibility
- - UI is color-blind friendly
- - has been run through Stark, an accessibility-detection service/program
- - however, we plan to add increased color-blind friendly mode
+  - UI is color-blind friendly
+  - has been run through Stark, an accessibility-detection service/program
+  - however, we plan to add increased color-blind friendly mode
 
 ## to use:
 1. clone using `git clone https://github.com/cheollie/medibase`
