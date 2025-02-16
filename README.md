@@ -36,14 +36,14 @@ With this in mind, MediBase was created with the intention to tackle these issue
   - however, we plan to add increased color-blind friendly mode
 
 ## get started:
-1. clone using `git clone https://github.com/cheollie/medibase`
-2. create a `.env` file inside the app directory, inside add api keys
+1. `git clone https://github.com/cheollie/medibase`
+2. `cd medibase\app && npm install`
+3. create a `.env` file inside the app directory, inside add api keys
    ```
    REACT_APP_TRANSLATE_KEY=<redacted>
    REACT_APP_TTS_KEY=<redacted>
    ```
-3. run `npm install`
-4. go into the `app` directory and run `npm start`   
+4. `npm start`   
    
 
 ## disclaimer: 
