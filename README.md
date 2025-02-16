@@ -35,7 +35,7 @@ With this in mind, MediBase was created with the intention to tackle these issue
   - has been run through Stark, an accessibility-detection service/program
   - however, we plan to add increased color-blind friendly mode
 
-## to use:
+## get started:
 1. clone using `git clone https://github.com/cheollie/medibase`
 2. create a `.env` file inside the app directory, inside add api keys
    ```
