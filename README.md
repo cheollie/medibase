@@ -63,10 +63,10 @@ If you are testing the site, here are some DIN numbers you can use. Alternativel
 00678740
 ```
 
-## originally for [lyonHacks ii](https://lyonhacks-ii.devpost.com/), adapted for tsf
+## originally for [lyonhacks ii](https://lyonhacks-ii.devpost.com/) where we won 1st overall, adapted for tsf
 early code made by [Aaron Z](https://github.com/AAZZAZRON), [Daniel Y](https://github.com/Trentiumz), [Shane C,](https://github.com/mars-flat) and [Chelsea W](https://github.com/cheollie)
 
-adaptions, update with new features made by [Chelsea W](https://github.com/cheollie)
+adaptions, updates with many new features made by [Chelsea W](https://github.com/cheollie)
 
 
 ## links
